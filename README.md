@@ -1,33 +1,22 @@
-# Restaurant Landing Page
+## University Website Project
 
-A fully University static website built using HTML, CSS.
+A fully static University website built using HTML & CSS.
 
-## 🚀 Features
-
-
+### Features
 - Modern UI Layout
 - Smooth Scrolling
 - Interactive Navigation Bar
 - Contact Form UI
 
-## 🛠 Technologies Used
-
+### Technologies
 - HTML5
 - CSS3
 
+### Screenshot
+![University Website](screenshot.png)
 
-## 📸 Screenshots
+### Live Demo
+Check out the live website here: [Live Website](https://enginering-website.vercel.app/)
 
-(Add screenshot image here if you want)
-
-## 🌐 Live Demo
-
-https://enginering-website.vercel.app/
-
-## 📂 GitHub Repository
-
-https://github.com/yourusername/project-name
-
-## 👨‍💻 Author
-
-Muhammad Abdullah
+### GitHub Repository
+Check out the code here: [GitHub Repo](https://github.com/dpo125/enginering-website.git)
