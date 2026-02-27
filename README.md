@@ -13,7 +13,7 @@ A fully static University website built using HTML & CSS.
 - CSS3
 
 ### Screenshot
-![University Website](screenshot.png)
+![University Website](git add README.md "./Screenshot 2026-02-27 121827.png")
 
 ### Live Demo
 Check out the live website here: [Live Website](https://enginering-website.vercel.app/)
