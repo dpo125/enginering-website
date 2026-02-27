@@ -22,7 +22,7 @@ A fully University static website built using HTML, CSS.
 
 ## 🌐 Live Demo
 
-https://your-live-link.netlify.app
+https://enginering-website.vercel.app/
 
 ## 📂 GitHub Repository
 
